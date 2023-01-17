@@ -277,6 +277,7 @@ fn ask_user_add_employees(company_hashmap_param:&mut HashMap<String, Vec<String>
                     println!("Please type in a valid input.");
                 }
                 //Replace these if and else-ifs with match
+            }
         }
     }
 }
